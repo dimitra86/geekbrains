@@ -12,3 +12,10 @@ body {
     background-image: url(../image/bg_blue.gif);
     background-position: top;
 }
+
+.menu {
+    font-family: Verdana, serif;
+    color:blueviolet;
+    background-color:dimgray;
+    
+}
