@@ -8,3 +8,7 @@ and open the template in the editor.
     Author     : user
 */
 
+body {    
+    background-image: url(../image/bg_blue.gif);
+    background-position: top;
+}
