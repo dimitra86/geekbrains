@@ -21,13 +21,14 @@ body {
 }
 
 h1 {
-    font-family: Times New Roman;
-    border-bottom: 3px double gray;    
+    text-align: center;    
 }
 
 h1 a {
     color:green;
     text-decoration: none;
+    font-family: Times New Roman;
+    border-bottom: 3px double gray;
 }
 
 .minitext {
@@ -40,4 +41,10 @@ h1 a {
 a.readmore:hover {
     color: red;
     text-decoration: none;
+}
+
+.article:first-letter {
+    font-family: Arial Black;
+    color: chartreuse;
+    font-size: 24px;
 }
