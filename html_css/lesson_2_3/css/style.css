@@ -48,3 +48,24 @@ a.readmore:hover {
     color: chartreuse;
     font-size: 24px;
 }
+
+.catalog_category {
+    list-style-image: url(../image/leaf_black1.png);
+    font-size: 20px;
+    background-color: darkcyan;
+}
+
+.catalog_podcategory {
+    list-style-image: url(../image/leaf_white1.png);
+    font-size: 14px;
+    background-color: darkkhaki;
+}
+
+.category {
+    width: 300px;
+}
+
+.new {
+    background-color: red;
+    color: white;
+}
