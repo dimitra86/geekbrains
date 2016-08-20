@@ -19,3 +19,25 @@ body {
     background-color:dimgray;
     
 }
+
+h1 {
+    font-family: Times New Roman;
+    border-bottom: 3px double gray;    
+}
+
+h1 a {
+    color:green;
+    text-decoration: none;
+}
+
+.minitext {
+    background-color: yellow;
+}
+
+.gocomment {
+    color: grey;
+}
+a.readmore:hover {
+    color: red;
+    text-decoration: none;
+}
